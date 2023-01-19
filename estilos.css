@@ -1,0 +1,29 @@
+h1{
+    font-size: 3.5rem;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+label,input{
+    font-size: 1.5rem;
+    margin-right: 1rem;
+}
+
+.header{
+    text-align: center;
+}
+
+.imagen{
+    width: 15%;
+}
+
+.Partidos{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
